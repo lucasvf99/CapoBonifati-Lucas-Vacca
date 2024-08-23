@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --global-color-0 : #333333 ;
+    --global-color-1:#ffffff;
+    --global-color-2: #a3660c;
+    --global-color-3:#f6be6a;
+}
+
+
+/*    NAVBAR   */
+
+.NavBar{
+    background-color: var(--global-color-0);
+    color: var(--global-color-1);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+.NavBar ul {
+    display: flex;
+    width: 30%;
+}
+.NavBar ul li {
+    width: 100%;
+    list-style: none;
+}
+
+/* carrito  */
+
+.carrito {
+    width: auto;
+    display: flex;
+}
+.bx {
+    font-size: 25px;
+}
+.carrito p {
+    background-color: var(--global-color-3);
+    width: 15px;
+    border-radius: 100%;
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+}
