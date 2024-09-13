@@ -1,0 +1,145 @@
+{
+    "helados": [
+      {
+        "id": 1,
+        "nombre": "Helado de Vainilla",
+        "precio": 2.50,
+        "descripcion": "Cremoso helado de vainilla con un toque de extracto natural.",
+        "imagen": "https://ejemplo.com/imagenes/helado_vainilla.jpg"
+      },
+      {
+        "id": 2,
+        "nombre": "Helado de Chocolate",
+        "precio": 3.00,
+        "descripcion": "Helado de chocolate intenso con cacao de alta calidad.",
+        "imagen": "https://ejemplo.com/imagenes/helado_chocolate.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Helado de Fresa",
+        "precio": 2.80,
+        "descripcion": "Helado refrescante con trozos de fresas frescas.",
+        "imagen": "https://ejemplo.com/imagenes/helado_fresa.jpg"
+      },
+      {
+        "id": 4,
+        "nombre": "Helado de Menta con Chocolate",
+        "precio": 3.20,
+        "descripcion": "Helado de menta suave con crujientes trozos de chocolate.",
+        "imagen": "https://ejemplo.com/imagenes/helado_menta_chocolate.jpg"
+      },
+      {
+        "id": 5,
+        "nombre": "Helado de Caramelo Salado",
+        "precio": 3.50,
+        "descripcion": "Helado de caramelo dulce con un sutil toque salado.",
+        "imagen": "https://ejemplo.com/imagenes/helado_caramelo_salado.jpg"
+      },
+      {
+        "id": 6,
+        "nombre": "Helado de Pistacho",
+        "precio": 3.80,
+        "descripcion": "Helado cremoso con auténticos pistachos tostados.",
+        "imagen": "https://ejemplo.com/imagenes/helado_pistacho.jpg"
+      },
+      {
+        "id": 7,
+        "nombre": "Helado de Mango",
+        "precio": 2.90,
+        "descripcion": "Helado tropical de mango con pulpa de fruta natural.",
+        "imagen": "https://ejemplo.com/imagenes/helado_mango.jpg"
+      },
+      {
+        "id": 8,
+        "nombre": "Helado de Coco",
+        "precio": 3.10,
+        "descripcion": "Helado refrescante con sabor a coco y trozos de fruta.",
+        "imagen": "https://ejemplo.com/imagenes/helado_coco.jpg"
+      },
+      {
+        "id": 9,
+        "nombre": "Helado de Limón",
+        "precio": 2.70,
+        "descripcion": "Helado cítrico de limón con un toque refrescante.",
+        "imagen": "https://ejemplo.com/imagenes/helado_limon.jpg"
+      },
+      {
+        "id": 10,
+        "nombre": "Helado de Frambuesa",
+        "precio": 3.00,
+        "descripcion": "Helado afrutado con frambuesas frescas y naturales.",
+        "imagen": "https://ejemplo.com/imagenes/helado_frambuesa.jpg"
+      },
+      {
+        "id": 11,
+        "nombre": "Helado de Dulce de Leche",
+        "precio": 3.40,
+        "descripcion": "Helado cremoso con un toque dulce de leche.",
+        "imagen": "https://ejemplo.com/imagenes/helado_dulce_leche.jpg"
+      },
+      {
+        "id": 12,
+        "nombre": "Helado de Café",
+        "precio": 3.20,
+        "descripcion": "Helado con intenso sabor a café recién molido.",
+        "imagen": "https://ejemplo.com/imagenes/helado_cafe.jpg"
+      },
+      {
+        "id": 13,
+        "nombre": "Helado de Galleta",
+        "precio": 3.50,
+        "descripcion": "Helado con trozos de galleta crujiente y vainilla.",
+        "imagen": "https://ejemplo.com/imagenes/helado_galleta.jpg"
+      },
+      {
+        "id": 14,
+        "nombre": "Helado de Cheesecake",
+        "precio": 3.80,
+        "descripcion": "Helado suave con sabor a cheesecake y trozos de galleta.",
+        "imagen": "https://ejemplo.com/imagenes/helado_cheesecake.jpg"
+      },
+      {
+        "id": 15,
+        "nombre": "Helado de Tarta de Manzana",
+        "precio": 3.60,
+        "descripcion": "Helado con trozos de tarta de manzana y canela.",
+        "imagen": "https://ejemplo.com/imagenes/helado_tarta_manzana.jpg"
+      },
+      {
+        "id": 16,
+        "nombre": "Helado de Avellana",
+        "precio": 3.90,
+        "descripcion": "Helado de avellanas tostadas con textura cremosa.",
+        "imagen": "https://ejemplo.com/imagenes/helado_avellana.jpg"
+      },
+      {
+        "id": 17,
+        "nombre": "Helado de Nuez",
+        "precio": 3.70,
+        "descripcion": "Helado con trozos de nuez caramelizada.",
+        "imagen": "https://ejemplo.com/imagenes/helado_nuez.jpg"
+      },
+      {
+        "id": 18,
+        "nombre": "Helado de Arándanos",
+        "precio": 3.10,
+        "descripcion": "Helado afrutado con arándanos naturales.",
+        "imagen": "https://ejemplo.com/imagenes/helado_arandanos.jpg"
+      },
+      {
+        "id": 19,
+        "nombre": "Helado de Te Matcha",
+        "precio": 4.00,
+        "descripcion": "Helado con un sabor fresco de té matcha japonés.",
+        "imagen": "https://ejemplo.com/imagenes/helado_matcha.jpg"
+      },
+      {
+        "id": 20,
+        "nombre": "Helado de Tiramisu",
+        "precio": 4.20,
+        "descripcion": "Helado cremoso inspirado en el postre italiano tiramisú.",
+        "imagen": "https://ejemplo.com/imagenes/helado_tiramisu.jpg"
+      }
+    ]
+  }
+  
