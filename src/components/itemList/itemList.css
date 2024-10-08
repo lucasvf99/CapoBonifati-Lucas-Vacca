@@ -1,0 +1,21 @@
+:root{
+    --global-color-3:#f6be6a;
+}
+
+h2{
+    text-align: center;
+    margin: 50px 0px ;
+    color: var(--global-color-3) !important;
+}
+.productos{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 2rem;
+    width: 80%;
+    margin: 50px auto;
+}
+@media (min-width: 768px) {
+    .productos{
+       grid-template-columns: repeat(4,1fr);
+    }
+}

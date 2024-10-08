@@ -1,0 +1,45 @@
+:root {
+    --global-color-0 : #333333 ;
+    --global-color-0-claro:#303030;
+    --global-color-1:#ffffff;
+    --global-color-2: #a3660c;
+    --global-color-3:#f6be6a;
+    --global-color-4:#5ffe46;
+    --font-principal:
+}
+
+.carrito__cont{
+    display:grid;
+    justify-content: center;
+    grid-template-columns: 2fr 1fr 1fr .5fr;
+    column-gap: 3rem;
+    align-items: center;
+    border: 1px solid var(--global-color-3);
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;
+}
+.carrito__cont__image{
+    width: 100%;
+}
+.carrito__cont__image img{
+    width: 80%;
+    border-radius: 50%;
+}
+.boton__carrito{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 30px;
+    margin: 10px;
+    height: 30;
+    text-align: center;
+    border-radius: 50%;
+    background-color: var(--global-color-0-claro);
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+.boton__carrito:hover{
+    background-color: red !important;
+}

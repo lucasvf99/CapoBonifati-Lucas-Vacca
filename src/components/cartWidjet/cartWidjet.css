@@ -1,0 +1,35 @@
+
+/* carrito  */
+
+#carrito {
+    width: auto;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.bx {
+    font-size: 3rem;
+    margin: 10px;
+}
+#carrito p {
+    background-color: var(--global-color-3);
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 50%;
+    width: 50%;
+    text-align: center;
+}
+#carrito__products{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    background-color: red;
+    top: 0;
+    margin-top: 73px;
+    display: none;
+}
+.carrito__products--active{
+    display: flex;
+    flex-direction: column;
+}

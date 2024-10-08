@@ -1,0 +1,36 @@
+/*    NAVBAR   */
+
+
+.navBar{
+    background-color: var(--global-color-0);
+    color: var(--global-color-1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 2rem;
+    align-items: center;
+    padding: 20px;
+}
+@media (min-width: 768px) {
+     .navBar{
+        flex-direction: row ;
+     }
+}
+.navBar__logo{
+    border: var(--global-color-3) solid .1rem ;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.navBar h1 span{
+    color: var(--global-color-3);
+}
+.navBar__links{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+.navBar__link{
+    text-decoration: none;
+    color: var(--global-color-1);
+    
+}
